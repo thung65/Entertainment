@@ -320,7 +320,7 @@
             </td>
             <td>
                 <a
-                    href="[https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/fptplayvietnam]
+                    href="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/fptplayvietnam"
                     ><img
                         src="https://img.shields.io/badge/thung%2065%iptv-orange?style=for-the-badge"
                         alt="Thung 65 IPTV"
