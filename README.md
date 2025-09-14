@@ -314,6 +314,24 @@
         </tr>
         <tr>
             <td>
+                <a href="https://github.com/thung65/Iptv-vietnam"
+                    ><b>Thung 65 IPTV</b></a
+                >
+            </td>
+            <td>
+                <a
+                    href="[https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/fptplayvietnam]
+                    ><img
+                        src="https://img.shields.io/badge/viet%20nga%20iptv-gray?style=for-the-badge"
+                        alt="Thung 65 IPTV"
+                /></a>
+            </td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
                 <a
                     href="https://www.facebook.com/groups/nghienmacviet/permalink/908757334233788/"
                     ><b>Cà Lem TV</b></a
